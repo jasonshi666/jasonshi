@@ -1,0 +1,11 @@
+aside {
+	width: 260px;
+}
+#content_main section,
+#content_main article  {
+	display:block;
+	padding:1em 0;
+	margin-bottom: 20px;
+	overflow: hidden;
+	border-bottom:1px solid #f0f0f0;
+}
